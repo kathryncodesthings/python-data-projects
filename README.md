@@ -20,7 +20,7 @@ One of my employer's projects was to improve cash forecasting, and the Financial
 
 I downloaded ten years of data on Key Financial Indicators for UK Higher Education Institutions and cleaned, transformed, analysed and visualised the data, and presented my conclusions.
 
-### image here
+![Scatterplot of Net cash vs. Surplus/deficit for UK HEIs, 2015-2024](https://github.com/kathryncodesthings/python-data-projects/blob/main/HESA_data_scatterplot.png "Scatterplot of Net cash vs. Surplus/deficit for UK HEIs, 2015-2024")
 
 ### link to code
 
@@ -29,5 +29,5 @@ Calculating R² tells us how much of the difference in net cash positions across
 
 In this case, R² was **0.07**, which means 7% of the variation in net cash can be statistically linked to surplus. This makes surplus a poor predictor of net cash. There are many other influences on cash, such as timing of payments, exchange rates, investment decisions, etc.
 
-After presenting my findings to the Financial Planning team, they could revise their approach to forecasting net cash accordingly, and discount using surplus as a predictor of net cash.
+After presenting my findings to the Financial Planning team, they revised their approach to forecasting net cash accordingly, and discounted using surplus as a predictor of net cash.
 
