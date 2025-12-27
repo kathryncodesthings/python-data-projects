@@ -23,12 +23,14 @@ I downloaded ten years of data on Key Financial Indicators for UK Higher Educati
 ![Scatterplot of Net cash vs. Surplus/deficit for UK HEIs, 2015-2024](https://github.com/kathryncodesthings/python-data-projects/blob/main/HESA_data_scatterplot.png "Scatterplot of Net cash vs. Surplus/deficit for UK HEIs, 2015-2024")
 
 ### Juptyer Notebook
-The complete code I produced can be found here: [HESA KFI Analysis Python code](https://github.com/kathryncodesthings/python-data-projects/blob/main/HESA%20data%20analysis.ipynb)
+The complete code I produced is here: [HESA KFI Analysis Python code](https://github.com/kathryncodesthings/python-data-projects/blob/main/HESA%20data%20analysis.ipynb)
 
 ### Conclusions
 Calculating R² tells us how much of the difference in net cash positions across universities is associated with differences in surplus. For example, an R² of 0.35 would mean about 35% of the variation in net cash can be statistically linked to surplus.
 
 In this case, R² was **0.07**, which means 7% of the variation in net cash can be statistically linked to surplus. This makes surplus a poor predictor of net cash. There are many other influences on cash, such as timing of payments, exchange rates, investment decisions, etc.
+
+To present my findings to the Financial Planning team, I used a scattergraph (example above), which was highly effective at communicating the lack of a consistent relationship. I supported this with the R² calculation.
 
 After presenting my findings to the Financial Planning team, they revised their approach to forecasting net cash accordingly, and discounted using surplus as a predictor of net cash.
 
