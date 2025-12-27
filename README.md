@@ -22,7 +22,8 @@ I downloaded ten years of data on Key Financial Indicators for UK Higher Educati
 
 ![Scatterplot of Net cash vs. Surplus/deficit for UK HEIs, 2015-2024](https://github.com/kathryncodesthings/python-data-projects/blob/main/HESA_data_scatterplot.png "Scatterplot of Net cash vs. Surplus/deficit for UK HEIs, 2015-2024")
 
-### link to code
+### Juptyer Notebook
+The complete code I produced can be found here: [HESA KFI Analysis Python code](https://github.com/kathryncodesthings/python-data-projects/blob/main/HESA%20data%20analysis.ipynb)
 
 ### Conclusions
 Calculating R² tells us how much of the difference in net cash positions across universities is associated with differences in surplus. For example, an R² of 0.35 would mean about 35% of the variation in net cash can be statistically linked to surplus.
