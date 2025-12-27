@@ -8,6 +8,8 @@ Each project contains a link to the full analysis, and where relevant, code.
 
 ## HESA KFI Analysis
 
+**Skills used:** working with stakeholders to understand a business problem; Python (numpy, pandas, matplotlib); cleaning data; finding and handling outliers; data visualisation; presenting results to stakeholders.
+
 This project takes open data from HESA, the UK Higher Education Statistics Agency.
 
 I was asked to review whether there is a significant correlation between two of the Key Financial Indicators collected by HESA:
