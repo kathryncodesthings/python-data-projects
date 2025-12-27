@@ -12,11 +12,11 @@ Each project contains a link to the full analysis, and where relevant, code.
 
 This project takes open data from HESA, the UK Higher Education Statistics Agency.
 
-I was asked to review whether there is a significant correlation between two of the Key Financial Indicators collected by HESA:
+When working at University College London, I was asked to review whether there is a significant correlation between two of the Key Financial Indicators collected by HESA:
 * Surplus/(deficit) as a % of total income
 * Net cash inflow from operating activities as a % of total income
 
-One of my employer's projects was to improve cash forecasting, and the Financial Planning Team requested that I look into whether surplus/deficit % was correlated with net cash inflow, and whether the budgeted surplus/deficit % could be used to forecast net cash inflow. (NB: In a for-profit company, the surplus/deficit would be the profit/loss).
+One of UCL's areas of focus was to improve cash forecasting, and the Financial Planning Team requested that I look into whether surplus/deficit % was correlated with net cash inflow, and whether the budgeted surplus/deficit % could be used to forecast net cash inflow. (NB: In a for-profit company, the surplus/deficit would be the profit/loss).
 
 I downloaded ten years of data on Key Financial Indicators for UK Higher Education Institutions and cleaned, transformed, analysed and visualised the data, and presented my conclusions.
 
@@ -33,4 +33,7 @@ In this case, R² was **0.07**, which means 7% of the variation in net cash can 
 To present my findings to the Financial Planning team, I used a scattergraph (example above), which was highly effective at communicating the lack of a consistent relationship. I supported this with the R² calculation.
 
 After presenting my findings to the Financial Planning team, they revised their approach to forecasting net cash accordingly, and discounted using surplus as a predictor of net cash.
+
+### Possible improvemnts
+I used HESA's data on university finances. This is a valuable data set of over 200 higher education institutions, and as they are in the same sector as UCL they are more likely to yield relevant insights than data from other sectors. However, as UCL is one of the largest universities in the UK, it might be useful to filter the data to only include other universities that are similar to UCL (in terms of income sources, student numbers, etc.).
 
