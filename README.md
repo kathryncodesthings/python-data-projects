@@ -61,6 +61,7 @@ Following the presentation:
 This project demonstrates my ability to challenge assumptions with data and translate statistical results into practical business decisions.
 
 ### Possible improvemnts
+#### Segment the data
 This analysis uses sector-wide data covering over 200 universities, which makes it highly relevant and comparable. However, UCL is significantly larger and more complex than many institutions in the dataset.
 
 A potential extension would be to:
