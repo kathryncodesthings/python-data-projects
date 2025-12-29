@@ -47,7 +47,7 @@ In this analysis, R² was **0.07**.
 This means that only 7% of the variation in cash generation can be statistically linked to surplus, making surplus a very weak predictor of cash position.
 
 In practice, this is because cash levels are driven by many other factors, such as:
-* Timing of income and payments
+* Timing of cash receipts and payments
 * Capital investment decisions
 * Financing and borrowing
 
