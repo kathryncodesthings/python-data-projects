@@ -52,10 +52,10 @@ In practice, this is because cash levels are driven by many other factors, such 
 * Financing and borrowing
 
 ### Impact
-To communicate the results, I used a clear scatterplot alongside a plain-English explanation of the statistics. This made the lack of a consistent relationship immediately visible to non-technical stakeholders.
+To communicate the results, I used a clear scatterplot alongside a brief explanation of the statistics. This made the lack of a consistent relationship immediately visible to non-technical stakeholders.
 
 Following the presentation:
-* The Financial Planning team revised their cash-forecasting approach
+* The Financial Planning team revised their cash forecasting approach
 * Surplus was no longer used as a proxy for cash performance
 
 This project demonstrates my ability to challenge assumptions with data and translate statistical results into practical business decisions.
