@@ -47,20 +47,21 @@ In this analysis, R² was **0.07**.
 This means that only 7% of the variation in cash generation can be statistically linked to surplus, making surplus a very weak predictor of cash position.
 
 In practice, this is because cash levels are driven by many other factors, such as:
-* Timing of income and payments
+* Timing of cash receipts and payments
 * Capital investment decisions
 * Financing and borrowing
 
 ### Impact
-To communicate the results, I used a clear scatterplot alongside a plain-English explanation of the statistics. This made the lack of a consistent relationship immediately visible to non-technical stakeholders.
+To communicate the results, I used a clear scatterplot alongside a brief explanation of the statistics. This made the lack of a consistent relationship immediately visible to non-technical stakeholders.
 
 Following the presentation:
-* The Financial Planning team revised their cash-forecasting approach
+* The Financial Planning team revised their cash forecasting approach
 * Surplus was no longer used as a proxy for cash performance
 
 This project demonstrates my ability to challenge assumptions with data and translate statistical results into practical business decisions.
 
 ### Possible improvemnts
+#### Segment the data
 This analysis uses sector-wide data covering over 200 universities, which makes it highly relevant and comparable. However, UCL is significantly larger and more complex than many institutions in the dataset.
 
 A potential extension would be to:
